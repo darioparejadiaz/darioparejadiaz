@@ -27,7 +27,7 @@ I build functional and well designed User Interfaces using the native stack of t
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darioparejadiaz&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ##  Projects and Apps
-<p><a href="https://darioparejadiaz.com/the-movie-api">The Movie API</a></p>
-<p><a href="https://darioparejadiaz.com/catch-the-rabbit">Catch The Rabbit</a></p>
-<p><a href="https://darioparejadiaz.com/the-dog-api">The Dog API</a></p>
+<p><a href="https://darioparejadiaz.com/the-movie-api" target="_blank">The Movie API</a></p>
+<p><a href="https://darioparejadiaz.com/catch-the-rabbit-game" target="_blank">Catch The Rabbit</a></p>
+<p><a href="https://darioparejadiaz.com/the-dog-api" target="_blank">The Dog API</a></p>
 
