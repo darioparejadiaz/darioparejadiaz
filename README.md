@@ -26,7 +26,7 @@ I build functional and well designed User Interfaces using Angular Framework.
 
 
 ##  Projects and Apps
-[Yard Sale](https://eloquent-frangollo-af126d.netlify.app/)
+[Yard Sale](https://dp-yard-sale.netlify.app/home)
 
 [The Movie API](https://darioparejadiaz.com/the-movie-api)
 
