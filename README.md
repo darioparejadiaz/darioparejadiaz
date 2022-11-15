@@ -1,5 +1,5 @@
 # Hi, I´m Dario Pareja
-### Front-end Developer
+### Front-end Web Developer
 I build functional and well designed User Interfaces using Angular Framework.
 
 ##  Markup and Style
@@ -10,9 +10,9 @@ I build functional and well designed User Interfaces using Angular Framework.
 
 ##  Programming Languages
 
-| JavaScript        | TypeScript         | Web Components    |
-| :-------------:   | :-------------:    |  :-------------:  |
-| <img src='https://raw.githubusercontent.com/darioparejadiaz/darioparejadiaz/5134b6c189ba2c11da9ed2f4beeca34c054bb26a/assets/icons/JS.svg' alt='JS' width='40'> | <img src='https://raw.githubusercontent.com/darioparejadiaz/darioparejadiaz/main/assets/icons/Typescript.png' alt='TS' width='40'> | <img src='https://raw.githubusercontent.com/darioparejadiaz/darioparejadiaz/5134b6c189ba2c11da9ed2f4beeca34c054bb26a/assets/icons/web-component.svg' alt='Web Components' width='40'>
+| JavaScript        | TypeScript         | 
+| :-------------:   | :-------------:    | 
+| <img src='https://raw.githubusercontent.com/darioparejadiaz/darioparejadiaz/5134b6c189ba2c11da9ed2f4beeca34c054bb26a/assets/icons/JS.svg' alt='JS' width='40'> | <img src='https://raw.githubusercontent.com/darioparejadiaz/darioparejadiaz/main/assets/icons/Typescript.png' alt='TS' width='40'> | <img 
 
 ##  Frameworks
 
