@@ -34,6 +34,6 @@ I build functional and well designed User Interfaces using Angular Framework.
 
 [The Dog API](https://darioparejadiaz.com/the-dog-api)
 
-[Guess The Number] (https://darioparejadiaz.com/guess-the-number-game)
+[Guess The Number](https://darioparejadiaz.com/guess-the-number-game)
 
 [Personal Web](https://darioparejadiaz.com)
