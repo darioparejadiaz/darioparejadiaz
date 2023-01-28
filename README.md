@@ -28,11 +28,11 @@ I build functional and well designed User Interfaces using Angular Framework.
 ##  Projects and Apps
 [Yard Sale](https://dp-yard-sale.netlify.app/home)
 
-[The Movie API](https://darioparejadiaz.com/the-movie-api)
+[Movie Trends](https://darioparejadiaz.com/movie-trends)
 
 [Catch The Rabbit](https://darioparejadiaz.com/catch-the-rabbit-game)
 
-[The Dog API](https://darioparejadiaz.com/the-dog-api)
+[Insta Dog](https://darioparejadiaz.com/insta-dog)
 
 [Guess The Number](https://darioparejadiaz.com/guess-the-number-game)
 
