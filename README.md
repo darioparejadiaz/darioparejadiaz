@@ -1,6 +1,6 @@
 # Hi, I´m Dario Pareja
 ### Front-end Web Developer
-I build functional and well designed User Interfaces using Angular Framework.
+I build functional and well designed User Interfaces using web technologies.
 
 ##  Markup and Style
 
