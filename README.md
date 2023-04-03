@@ -26,6 +26,9 @@ I build functional and well designed User Interfaces using Angular Framework.
 
 
 ##  Projects and Apps
+
+[Big Players Store](https://bigplayerstore.com)
+
 [Yard Sale](https://dp-yard-sale.netlify.app/home)
 
 [Movie Trends](https://darioparejadiaz.com/movie-trends)
