@@ -12,13 +12,19 @@ I build functional and well designed User Interfaces using Angular Framework.
 
 | JavaScript        | TypeScript         | 
 | :-------------:   | :-------------:    | 
-| <img src='https://raw.githubusercontent.com/darioparejadiaz/darioparejadiaz/5134b6c189ba2c11da9ed2f4beeca34c054bb26a/assets/icons/JS.svg' alt='JS' width='40'> | <img src='https://raw.githubusercontent.com/darioparejadiaz/darioparejadiaz/main/assets/icons/Typescript.png' alt='TS' width='40'> | <img 
+| <img src='https://raw.githubusercontent.com/darioparejadiaz/darioparejadiaz/5134b6c189ba2c11da9ed2f4beeca34c054bb26a/assets/icons/JS.svg' alt='JS' width='40'> | <img src='https://raw.githubusercontent.com/darioparejadiaz/darioparejadiaz/main/assets/icons/Typescript.png' alt='TS' width='40'> |
 
 ##  Frameworks
 
 | Angular         |
 | :-------------: |
 | <img src='https://raw.githubusercontent.com/darioparejadiaz/darioparejadiaz/main/assets/icons/Angular.png' alt='Angular' width='40'>  |
+
+##  CMS
+
+| Wordpress         | WooCommerce        | 
+| :-------------:   | :-------------:    | 
+| <img src='https://raw.githubusercontent.com/darioparejadiaz/darioparejadiaz/main/assets/icons/wordpress-logo.png' alt='Wordpress' width='40'> | <img src='https://raw.githubusercontent.com/darioparejadiaz/darioparejadiaz/main/assets/icons/WooCommerce-logo.png' alt='woocommerce' width='40'> |
 
 ##  Statistics
 
