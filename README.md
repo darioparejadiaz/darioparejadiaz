@@ -1,5 +1,5 @@
 # Hi, I´m Dario Pareja
-### Front-end Web Developer
+### Web Developer
 I build functional and well designed User Interfaces using web technologies.
 
 ##  Markup and Style
@@ -20,11 +20,6 @@ I build functional and well designed User Interfaces using web technologies.
 | :-------------: |
 | <img src='https://raw.githubusercontent.com/darioparejadiaz/darioparejadiaz/main/assets/icons/Angular.png' alt='Angular' width='40'>  |
 
-##  CMS
-
-| Wordpress         | WooCommerce        | 
-| :-------------:   | :-------------:    | 
-| <img src='https://raw.githubusercontent.com/darioparejadiaz/darioparejadiaz/main/assets/icons/wordpress-logo.png' alt='Wordpress' width='40'> | <img src='https://raw.githubusercontent.com/darioparejadiaz/darioparejadiaz/main/assets/icons/WooCommerce-logo.png' alt='woocommerce' width='40'> |
 
 ##  Statistics
 
